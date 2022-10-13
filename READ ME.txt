@@ -1,0 +1,18 @@
+1. The Base Code (.py) files are in [....Cricket Scoreboard/Base Code Here/]
+2. The .exe file can be accessessed from [ ....Cricket Scoreboard/Executable File/Cricket Scoreboard Simulator.exe]
+3. [....Cricket Scoreboard/Report.docx] is the report document for the respective Project.
+
+
+NOTE-------------------------------------------------------
+
+The report was created by the group using google documents. Hence, to retain the alignments, layouts and features please open the report document using google documents only!
+
+Opening "report.docx" using other editors may not let the features be compatible and cause drastic errors in alignments and layouts. 
+
+INSTRUCTIONS FOR USING THE APPLICATION-----------------------------
+
+1. Please Enter the Team name and Player names sequentailly. Eg, Enter Austrailian players first and then enter England players.
+2. Click on Next after entering Player names.
+3. Once all Player (both team 1 and team 2) scores are added, Click on Done to view match result.
+
+
