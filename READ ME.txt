@@ -5,9 +5,7 @@
 
 NOTE-------------------------------------------------------
 
-The report was created by the group using google documents. Hence, to retain the alignments, layouts and features please open the report document using google documents only!
-
-Opening "report.docx" using other editors may not let the features be compatible and cause drastic errors in alignments and layouts. 
+Please go through the report for detailed manual to use the application. Thanks.
 
 INSTRUCTIONS FOR USING THE APPLICATION-----------------------------
 
